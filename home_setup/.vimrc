@@ -10,3 +10,5 @@ syntax on " syntax highlighting
 set hlsearch " highlight the last searched term
 
 filetype plugin on " use the file type plugins
+let python_space_error_highlight = 1
+
